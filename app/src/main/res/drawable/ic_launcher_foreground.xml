@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- antenne -->
+    <path android:fillColor="#FFFFFF" android:pathData="M37,60V34a2,2 0 0 1 4,0V60z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M67,60V34a2,2 0 0 1 4,0V60z" />
+    <!-- onda wifi -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M46,44a8,8 0 0 1 16,0" />
+    <path android:fillColor="#FFFFFF" android:pathData="M54,49m-2.4,0a2.4,2.4 0 1 1 4.8,0a2.4,2.4 0 1 1 -4.8,0" />
+    <!-- corpo -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M32,58h44a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-44a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z" />
+    <!-- led -->
+    <path android:fillColor="#0A84FF" android:pathData="M40,68m-2.4,0a2.4,2.4 0 1 1 4.8,0a2.4,2.4 0 1 1 -4.8,0" />
+    <path android:fillColor="#0A84FF" android:pathData="M49,68m-2.4,0a2.4,2.4 0 1 1 4.8,0a2.4,2.4 0 1 1 -4.8,0" />
+    <path android:fillColor="#0A84FF" android:pathData="M58,68m-2.4,0a2.4,2.4 0 1 1 4.8,0a2.4,2.4 0 1 1 -4.8,0" />
+</vector>

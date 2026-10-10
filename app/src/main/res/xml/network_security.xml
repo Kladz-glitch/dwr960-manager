@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Il router parla solo HTTP in chiaro, e solo in LAN -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">192.168.0.1</domain>
+    </domain-config>
+</network-security-config>
